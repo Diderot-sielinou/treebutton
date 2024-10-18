@@ -1,7 +1,28 @@
-button {
+body {
   display: flex;
-  padding: 20px 30px;
   justify-content: center;
-  color: white;
-  background: chartreuse;
+  align-items: center;
+}
+
+button {
+  padding: 20px 30px;
+  color: #fff;
+  background: #7fff00;
+  text-align: center;
+  margin: 50px 20px;
+  border-radius: 10px;
+  font-size: 2rem;
+}
+
+.second {
+  background: #100619;
+}
+
+.last {
+  background: #b7b71e;
+}
+
+.one:hover {
+  background: #00f;
+  transform: scale(0.9);
 }
