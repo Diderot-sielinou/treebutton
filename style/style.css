@@ -5,3 +5,11 @@ button {
   color: white;
   background: chartreuse;
 }
+
+.second {
+  background:blueviolet ;
+}
+
+.last{
+  background: yellow;
+}
