@@ -16,9 +16,14 @@ button {
 }
 
 .second {
-  background:blueviolet ;
+  background:rgb(16, 6, 25) ;
 }
 
 .last{
   background: rgb(183, 183, 30);
+}
+
+.one:hover {
+  background:  rgb(183, 183, 30);
+  transform: scale(0.9);
 }
